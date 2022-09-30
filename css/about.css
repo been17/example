@@ -118,6 +118,7 @@
 }
 
 #project > a{
+  display: inline-block;
   width: 170px;
   height: 50px;
   border: 0;
